@@ -1,0 +1,1 @@
+/home/codespace/.copilot/prompts/compass.prompt.md

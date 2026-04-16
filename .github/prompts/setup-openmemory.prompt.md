@@ -1,0 +1,1 @@
+/home/codespace/.copilot/prompts/setup-openmemory.prompt.md
